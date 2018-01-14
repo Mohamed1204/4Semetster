@@ -1,0 +1,12 @@
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\bin\Debug\netcoreapp2.0\Google-logIn.deps.json
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\bin\Debug\netcoreapp2.0\Google-logIn.runtimeconfig.json
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\bin\Debug\netcoreapp2.0\Google-logIn.runtimeconfig.dev.json
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\bin\Debug\netcoreapp2.0\Google-logIn.dll
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\bin\Debug\netcoreapp2.0\Google-logIn.pdb
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.csprojResolveAssemblyReference.cache
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.csproj.CoreCompileInputs.cache
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.AssemblyInfoInputs.cache
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.AssemblyInfo.cs
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.dll
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\Google-logIn.pdb
+C:\Users\chaba\source\repos\Google-logIn\Google-logIn\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

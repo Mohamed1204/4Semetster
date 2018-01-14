@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Google_logIn.Models.Post>
+
+
+@foreach (var item in Model)
+{
+    <hr>
+    <tr>
+        
+        <td>
+            <h5>
+               Posted by:  @Html.DisplayFor(modelItem => item.Author)
+                @Html.DisplayFor(modelItem => item.Posted)
+            </h5>
+            <br />
+            <h4> @Html.DisplayFor(modelItem => item.Body)</h4>
+        </td>
+        
+    </tr>
+    <hr>
+}
+
+<br/>
+<a asp-action="Create">Create Post</a>

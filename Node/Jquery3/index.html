@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Messages from Students</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<section id="messageForm">
+		<h1>Messages from Students</h1>
+
+		<label>Write your name: </label>
+		<input type="text" placeholder="Your name" id="studentName">
+
+		<label>Write your message: </label>
+		<textarea placeholder="Your message" id="studentMsg"></textarea>
+
+		<button id="sendMsg">Submit</button>
+	</section>
+
+	<section id="messageDisplay">
+		<h1>Your message</h1>
+		<div id="messageBox">
+			<p class="msg">Default message</p>
+		</div>
+
+		<button id="changeBorderColor">Change the changeBorderColor</button>
+	</section>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="script.js"></script>
+</body>
+</html>

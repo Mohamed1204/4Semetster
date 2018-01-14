@@ -1,0 +1,11 @@
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\bin\Debug\netcoreapp2.0\StudenttAdminFinal.deps.json
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\bin\Debug\netcoreapp2.0\StudenttAdminFinal.runtimeconfig.json
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\bin\Debug\netcoreapp2.0\StudenttAdminFinal.runtimeconfig.dev.json
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\bin\Debug\netcoreapp2.0\StudenttAdminFinal.dll
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\bin\Debug\netcoreapp2.0\StudenttAdminFinal.pdb
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.csprojResolveAssemblyReference.cache
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.csproj.CoreCompileInputs.cache
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.AssemblyInfoInputs.cache
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.AssemblyInfo.cs
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.dll
+C:\Users\chaba\source\repos\StudenttAdminFinal\StudenttAdminFinal\obj\Debug\netcoreapp2.0\StudenttAdminFinal.pdb

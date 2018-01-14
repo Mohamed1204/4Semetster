@@ -1,0 +1,11 @@
+C:\Users\chaba\source\repos\dat16\dat16\bin\Release\netcoreapp1.1\dat16.deps.json
+C:\Users\chaba\source\repos\dat16\dat16\bin\Release\netcoreapp1.1\dat16.runtimeconfig.json
+C:\Users\chaba\source\repos\dat16\dat16\bin\Release\netcoreapp1.1\dat16.runtimeconfig.dev.json
+C:\Users\chaba\source\repos\dat16\dat16\bin\Release\netcoreapp1.1\dat16.dll
+C:\Users\chaba\source\repos\dat16\dat16\bin\Release\netcoreapp1.1\dat16.pdb
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.csprojResolveAssemblyReference.cache
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.csproj.CoreCompileInputs.cache
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.AssemblyInfoInputs.cache
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.AssemblyInfo.cs
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.dll
+C:\Users\chaba\source\repos\dat16\dat16\obj\Release\netcoreapp1.1\dat16.pdb

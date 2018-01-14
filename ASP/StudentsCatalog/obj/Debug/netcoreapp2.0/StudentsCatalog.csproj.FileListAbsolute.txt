@@ -1,0 +1,21 @@
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.deps.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.runtimeconfig.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.runtimeconfig.dev.json
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/bin/Debug/netcoreapp2.0/StudentsCatalog.pdb
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.csproj.CoreCompileInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.AssemblyInfoInputs.cache
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.AssemblyInfo.cs
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.dll
+/Users/clbo/Google Drive/KEA_Macbook/dotnet/E2017/StudentsCatalog/obj/Debug/netcoreapp2.0/StudentsCatalog.pdb
+C:\Users\chaba\source\repos\StudentsCatalog\bin\Debug\netcoreapp2.0\StudentsCatalog.deps.json
+C:\Users\chaba\source\repos\StudentsCatalog\bin\Debug\netcoreapp2.0\StudentsCatalog.runtimeconfig.json
+C:\Users\chaba\source\repos\StudentsCatalog\bin\Debug\netcoreapp2.0\StudentsCatalog.runtimeconfig.dev.json
+C:\Users\chaba\source\repos\StudentsCatalog\bin\Debug\netcoreapp2.0\StudentsCatalog.dll
+C:\Users\chaba\source\repos\StudentsCatalog\bin\Debug\netcoreapp2.0\StudentsCatalog.pdb
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.csprojResolveAssemblyReference.cache
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.csproj.CoreCompileInputs.cache
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.AssemblyInfoInputs.cache
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.AssemblyInfo.cs
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.dll
+C:\Users\chaba\source\repos\StudentsCatalog\obj\Debug\netcoreapp2.0\StudentsCatalog.pdb

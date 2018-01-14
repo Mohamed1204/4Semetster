@@ -1,0 +1,12 @@
+#container{
+	width: 800px;
+	margin: 0 auto;
+	background: #ccc;
+	padding: 100px;
+}
+
+#textbox{
+	width: 400px;
+	border: 1px black solid;
+	margin: 20px;
+}

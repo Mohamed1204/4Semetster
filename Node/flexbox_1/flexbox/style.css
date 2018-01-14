@@ -1,0 +1,146 @@
+*{
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* general rules for all containers */
+
+h1{
+	text-align: center;
+	margin: 15px 0;
+}
+
+hr{
+	margin-bottom: 100vh;
+}
+
+.container{
+	min-height: 60vh;
+	display: flex; /* inline-flex */
+}
+
+.container div{
+	border: 1px black solid;
+	padding: 10px;
+}
+
+
+
+
+/* container 1 */
+
+#container1{
+	background: #1abc9c;
+	flex-direction: row; /* column, row-reverse, column-reverse */
+}
+
+
+/* container 2 */
+
+#container2{
+	background: #27ae60;
+	flex-direction: column;
+	flex-wrap: wrap; /* wrap-reverse */
+	height: 60vh;
+}
+
+#container2 div{
+	/*border: 1px red solid;*/
+	width: 300px;
+	height: 300px;
+}
+
+
+/* container 3 */
+
+#container3{
+	background: #2980b9;
+	flex-wrap: wrap;
+}
+
+#container3 div{
+	width:300px;
+}
+
+#container3 div:nth-child(1){
+	background: red;
+	order: 5;
+}
+
+#container3 div:nth-child(2){
+	background: green;
+	order: 1;
+}
+
+#container3 div:nth-child(3){
+	background: white;
+}
+
+#container3 div:nth-child(4){
+	background: orange;
+	order: 2;
+}
+
+#container3 div:nth-child(5){
+	background: yellow;
+	order: 3;
+}
+
+
+/* container 4 */
+
+#container4{
+	background: #9b59b6;
+	/*flex-direction: column;*/
+	justify-content: space-around;
+}
+
+#container4 div{
+	height: 200px;
+	/*width: 300px;*/
+	background: yellow;
+}
+
+
+/* container 5 */
+
+#container5{
+	background: #34495e;
+	align-items: center;
+	justify-content: center;
+}
+
+#container5 div{
+	background: yellow;
+	width: 100px;
+	height: 200px;
+}
+
+
+/* container 6 */
+
+#container6{
+	background: #f1c40f;
+}
+
+
+/* container 7 */
+
+#container7{
+	background: #e74c3c;
+}
+
+
+/* container 8 */
+
+#container8{
+	background: #95a5a6;
+}
+
+
+
+
+
+

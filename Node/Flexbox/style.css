@@ -1,0 +1,16 @@
+#bigContainer{
+display: flex;
+font-size: 40px;
+justify-content: space-around;
+height: 100vh;
+}
+.smallContainer{
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+}
+
+.smallContainer div{
+    background: #ccc;
+    padding: 20px;
+}

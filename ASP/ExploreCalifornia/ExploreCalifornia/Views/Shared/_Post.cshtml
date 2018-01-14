@@ -1,0 +1,7 @@
+﻿@inject ExploreCalifornia.Models.FormattingService Format
+@model ExploreCalifornia.Models.Post 
+
+<h1>@Html.ActionLink(Model.Title, "Post", "Blog", new { year = Model.Posted.Year, month = Model.Posted.Month, key = Model.Key})</h1>
+@Format.AsReadableDate(Model.Posted) by  @Model.Author
+
+@Model.Body

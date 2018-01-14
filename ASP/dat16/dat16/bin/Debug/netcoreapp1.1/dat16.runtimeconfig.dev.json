@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chaba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chaba\\.nuget\\packages"
+    ]
+  }
+}

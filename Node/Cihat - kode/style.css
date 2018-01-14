@@ -1,0 +1,26 @@
+#link{
+    position: absolute;
+    right:0;
+    margin-right: 200px;
+}
+
+#subscribe{
+    position: absolute;
+    right: 0;
+    margin-right: 300px;
+}
+#top-p{
+    margin-right: 300px;
+}
+
+.inline{
+    display: inline-block;
+    margin: 10px;
+    left: 0;
+}
+
+.block{
+    display: block;
+    margin: 30px;
+    margin-left: 180px;
+}

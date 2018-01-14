@@ -1,0 +1,30 @@
+@model StudentsCatalog.Models.Entities.Student
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Create</title>
+</head>
+<body>
+    <h1>Student Created</h1>
+
+    <form method="post" asp-action="Create" > <!-- action="/student/create" -->
+        <p> 
+        <span asp-validation-for="FirstName"></span> 
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" type="text" /></p>
+        <p>
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName"  type="text" /></p>
+        <p>
+        
+        <input asp-for="Age" type="text" /></p>
+        <input type="submit"  />
+    </form>
+
+
+</body>
+</html>

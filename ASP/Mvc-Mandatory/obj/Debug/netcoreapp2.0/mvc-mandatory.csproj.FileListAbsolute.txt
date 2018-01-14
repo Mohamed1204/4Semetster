@@ -1,0 +1,11 @@
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\bin\Debug\netcoreapp2.0\mvc-mandatory.deps.json
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\bin\Debug\netcoreapp2.0\mvc-mandatory.runtimeconfig.json
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\bin\Debug\netcoreapp2.0\mvc-mandatory.runtimeconfig.dev.json
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\bin\Debug\netcoreapp2.0\mvc-mandatory.dll
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\bin\Debug\netcoreapp2.0\mvc-mandatory.pdb
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.csproj.CoreCompileInputs.cache
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.AssemblyInfoInputs.cache
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.AssemblyInfo.cs
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.dll
+C:\Users\chaba\documents\4semester\asp\mvc-mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.pdb
+C:\Users\chaba\Documents\4semester\ASP\Mvc-Mandatory\obj\Debug\netcoreapp2.0\mvc-mandatory.csprojResolveAssemblyReference.cache

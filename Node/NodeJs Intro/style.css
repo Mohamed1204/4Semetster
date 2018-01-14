@@ -1,0 +1,68 @@
+body{
+    
+}
+
+.div1{
+    width: 100px;
+    height: 40px;
+    /*border: 2px green solid;*/
+    background: #480048;
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+}
+
+.div2{
+    width: 300px;
+    height: 40px;
+    background: red;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.div3{
+    width: 200px;
+    height: 40px;
+    background: green;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+.div4{
+    width: 300px;
+    height: 40px;
+    background: yellow;
+    font-size: 30px;
+    text-align: center;
+}
+
+.div5{
+    width: 300px;
+    height: 40px;
+    background: #2D002D;
+    font-size: 30px;
+    text-align: center;
+    color: yellow;
+}
+
+.div6{
+    width: 200px;
+    height: 40px;
+    background: darkblue;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+ 
+.div7{
+    width: 100px;
+    height: 40px;
+    background: red;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}

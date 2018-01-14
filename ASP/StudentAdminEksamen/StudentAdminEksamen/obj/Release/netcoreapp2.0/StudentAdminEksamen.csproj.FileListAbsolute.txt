@@ -1,0 +1,12 @@
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\bin\Release\netcoreapp2.0\StudentAdminEksamen.deps.json
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\bin\Release\netcoreapp2.0\StudentAdminEksamen.runtimeconfig.json
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\bin\Release\netcoreapp2.0\StudentAdminEksamen.runtimeconfig.dev.json
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\bin\Release\netcoreapp2.0\StudentAdminEksamen.dll
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\bin\Release\netcoreapp2.0\StudentAdminEksamen.pdb
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.csprojResolveAssemblyReference.cache
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.csproj.CoreCompileInputs.cache
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.AssemblyInfoInputs.cache
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.AssemblyInfo.cs
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.dll
+C:\Users\chaba\source\repos\StudentAdminEksamen\StudentAdminEksamen\obj\Release\netcoreapp2.0\StudentAdminEksamen.pdb

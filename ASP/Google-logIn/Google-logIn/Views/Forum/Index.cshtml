@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Google_logIn.Models.Topic>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+           
+        </td>
+        <a asp-action="TopicPosts" asp-route-id="@item.Name">@Html.DisplayFor(modelItem => item.Name)</a>
+        <td>
+           
+        </td>
+    </tr>
+}
+
+@if (ViewContext.HttpContext.User.IsInRole("Admin"))
+{
+    <h1>hej</h1>
+}

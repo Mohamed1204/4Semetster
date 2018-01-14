@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Hello World JQuery test</title>
+    <meta charset="UTF-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+</head>
+
+<body>
+    <div id="page_content">
+
+    </div>
+
+    <script>
+        $.getJSON("http://localhost:3003/", function (data) {
+            var html = "<h1>" + data.title + "</h1>";
+            html += "<p>" + data.text + "</p>"
+            $("#page_content").html(html); // inject the html into the div with id "page_content"
+        });
+    </script>
+</body>
+
+</html>
